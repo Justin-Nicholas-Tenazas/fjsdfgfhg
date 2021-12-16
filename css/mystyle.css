@@ -1,0 +1,40 @@
+	* {
+        font-family: trebuchet ms;
+        overflow: auto;
+        }
+        body {
+        background-color: rgba(215, 215, 215, 0.8)	
+        }
+        h1 {
+        background-color: purple;
+        color: white;
+        padding: 20px;
+        box-sizing: border-box;
+        border-radius: 15px;
+        }
+        h2 {
+        	color: purple;
+        }
+        hr {
+          border: 1px solid black;	
+        }
+        #div1 {
+        text-weight: bold;
+        text-align: center;
+        border-radius: 10px;
+        background-color: white;
+        }
+        #div2, #div3 {
+        text-align: center;
+        }
+        #div3 img {
+        	width: 400px;
+        }
+        
+        iframe {
+        	border: none;
+        }
+        ul {
+          border-radius: 10px;
+          background-color: white;
+        }
